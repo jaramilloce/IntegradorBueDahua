@@ -12,14 +12,8 @@
 
   <ItemGroup>
     <Folder Include="Helpers\" />
-    <Folder Include="Repositorio\Interfaces\Bue\" />
-    <Folder Include="Repositorio\Interfaces\Dahua\" />
-    <Folder Include="Repositorio\Servicios\Bue\" />
-    <Folder Include="Repositorio\Servicios\Dahua\" />
-    <Folder Include="Servicios\Interfaces\Bue\" />
-    <Folder Include="Servicios\Interfaces\Dahua\" />
-    <Folder Include="Servicios\Servicios\Bue\" />
-    <Folder Include="Servicios\Servicios\Dahua\" />
+    <Folder Include="Entidades\" />
+    <Folder Include="Dto\" />
   </ItemGroup>
 
 </Project>
